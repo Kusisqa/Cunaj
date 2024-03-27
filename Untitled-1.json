@@ -1,0 +1,11 @@
+{
+    "chainId": 101,
+    "address": "3PymyLMTvLsruzABT1C1HjPgZhTEYwjR6zSStB4zcGGP",
+    "symbol": "Cunaj",
+    "name": "Cunaj",
+    "decimals": 0,
+    "logoURI": "https://raw.githubusercontent.com/Kusisqa/Cunaj/main/logo.png",
+    "tags": [
+     "social-token"
+    ]
+    }
